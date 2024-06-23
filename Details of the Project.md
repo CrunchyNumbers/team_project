@@ -1,17 +1,15 @@
 Credit Card Eligibility Data: Determining Factors - Team Project 1  
 
-Completed by: Navneet Choudhary, Rihui Ren, Yevhen Horokhovskykh, Abigeal
+Completed by: Navneet Choudhary, Rihui Ren, Yevhen Horokhovskykh, Abigeal Adenigbagbe
 
 
 Project Breakdown:
 
 Questions:
 
-What business problem would our analysis be solving?
-Financial institution (Banks)
-They are the ones that determine Eligibility
-How do they improve their accuracy of customers on who should be eligible for credit cards?
-What factors to consider to develop a new product using the findings of this data? 
+How do financial institutions (banks) determine credit card eligibility? What factors are taken into account?
+How can they improve the accuracy of predicting which customers should be eligible for credit cards?
+What factors should be considered to develop new products using the findings from this data?
 
 Where value will be added?
 Whether a target variable (0 to 1) should be increased or lowered and how the total number of CCs is going to change
@@ -36,28 +34,15 @@ Rules of Engagement
 
 
 Project scope:
-
-Dataset cleaning/processing (separate table with features selected in step 2) - Abi
-
-Data extraction using Python --EDA (feature selection for further analysis) - Nav
-
-Regression modeling (logistic, KNN, random forest, Statsmodel - GLM) - Yev
-
-Data prediction (if applicable) — Model evaluation - Julia
-
-
-
+1. Dataset cleaning/processing (separate table with features selected in step 2) - Abi
+2. Data extraction using Python (EDA and feature selection for further analysis) - Navneet
+3. Regression modeling (KNN) - Yev
+4. Data prediction & Model evaluation - Julia
 
 
 Team collaboration timeline:
+Thursday, June 20 - 7:30pm-9pm
 Friday, June 21 - 7:30pm-9pm
-Saturday, June 22 - 10am-12pm, 8-10pm(?)
-Sunday, June 23 - TBD
-
-
-
-Data analysis:
-We want to explore the data to determine:
-Which components of the dataset (gender, property etc) have the most significant impact on the bank’s decision
-
+Saturday, June 22 - 10am-12pm, 6-9pm
+Sunday, June 23 - 10am-2pm
 
