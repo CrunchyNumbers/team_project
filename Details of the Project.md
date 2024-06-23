@@ -21,8 +21,36 @@ Solution Breakdown:
 3) Determine the most important factors by reviewing the coefficients and p-values (Python).
 4) Plot and analyze the important determining factors and develop solutions to increase elibility (Python). 
 
-Summary and Details:
-The project is to determine the factors that determine credit card eligibility. The factors that were assessed varied from owning property, age, unemployment, etc. The last column in the dataset determined if the individual was eligible or not to get a credit card. We first were able to determine out of the dataset, how many people were eligible and how many people were not eligible for the credit card. Once we extracted that information, we wanted to extract the data to determine the most important factors that are considered and are important when determining eligibilty. Once we ran the statistically summary, we were able to use factors such as pension, and income type to create a model. After the model, we were able to determine what factors can be improved from the business stand-point to increase the eligibity of credit cards. However, when running the model and testing various features, we noted the findings were inconclusive because the model performed well in predicting rejections but poorly in predicting approvals. 
+Summary of Credit Card Eligibility Team Project
+
+Dataset Overview:
+We started with a dataset containing various factors that might influence credit card eligibility. These factors included ownership of property, age, employment status, income type, etc.
+The dataset also included a target variable indicating whether individuals were eligible (1) or not eligible (0) for a credit card.
+
+Initial Analysis:
+We explored the dataset to understand its structure, missing values (any null values), and the distribution of eligible vs. non-eligible individuals within the dataset.
+We determined the number of people who were eligible and not eligible for credit cards to understand the balance or imbalance in the dataset. This allowed for us to see that only 13% of individuals in the dataset were eligible for credit card.
+
+Identification of Important Factors:
+We then conducted a statistical summary to identify factors that appeared to be significant in determining credit card eligibility. This could involve measures like correlation coefficients by using the Ordinary Least Squares (OLS) summary.
+Based on the summary, we selected relevant features such as pension status, income type (various income types) that showed strong associations with credit card eligibility.
+
+Model Building:
+We proceeded to build a classification model (KNN) to understand which factors most strongly predict credit card approval or rejection.
+We split the dataset into training and testing sets, and then trained the model on a portion of the data and tested its performance on the remaining data.
+Then we evaluated the model’s performance using appropriate metrics such as accuracy, precision, recall, and F1-score to assess its ability to predict both approvals and rejections.
+
+Findings and Challenges:
+Our model demonstrated high accuracy in predicting rejections (non-eligibility), but struggled with predicting approvals (eligibility). This imbalance in prediction accuracy suggests a potential bias or skew in the dataset towards one class (likely non-eligibility).
+Despite the model's limitations, insights were drawn regarding factors contributing to credit card rejection. Factors such as income type (e.g., regular income vs. irregular income like pensions) were identified as critical in determining eligibility.
+
+Business Recommendations:
+From a business perspective, recommendations were made on how to potentially improve credit card approval rates. This might include strategies to target specific customer segments (e.g., retirees with stable pension income) or to adjust eligibility criteria based on the findings from the model.
+Since our model had a much higher accuracy to determine the non-eligibility, the main areas we need to improve is eligibility. The highest correlation relationship is between various income types and eligibility, therefore reviewing and assessing factors other than income type would be necessary to improve the accuracy of model prediction for eligibility. 
+
+Conclusion and Next Steps:
+The analysis provided valuable insights into the factors influencing credit card eligibility, highlighting the importance of certain demographic and financial variables. Although it was inconclusive, we now know we need assess factors other than income type.
+Future work could focus on improving the collecting additional data on approved applicants to determine additional key factors when considering eligibility.
 
 
 Rules of Engagement
