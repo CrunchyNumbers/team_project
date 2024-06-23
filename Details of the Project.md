@@ -24,7 +24,7 @@ Solution Breakdown:
 4) Plot and analyze the important determining factors and develop solutions to increase elibility (Python). 
 
 Summary and Details:
-The project is to determine the factors that determine credit card eligibility. The factors that were assessed varied from owning property, age, unemployment, etc. The last column in the dataset determined if the individual was eligible or not to get a credit card. We first were able to determine out of the dataset, how many people were eligible and how many people were not eligible for the credit card. Once we extracted that information, we wanted to extract the data to determine the most important factors that are considered and are important when determining eligibilty. Once we ran the statistically summary, we were able to use factors such as pension, and income type to create a model. After the model, we were able to determine what factors can be improved from the business stand-point to increase the eligibity of credit cards. We were able to determine what areas are the most important and can be improved and why. 
+The project is to determine the factors that determine credit card eligibility. The factors that were assessed varied from owning property, age, unemployment, etc. The last column in the dataset determined if the individual was eligible or not to get a credit card. We first were able to determine out of the dataset, how many people were eligible and how many people were not eligible for the credit card. Once we extracted that information, we wanted to extract the data to determine the most important factors that are considered and are important when determining eligibilty. Once we ran the statistically summary, we were able to use factors such as pension, and income type to create a model. After the model, we were able to determine what factors can be improved from the business stand-point to increase the eligibity of credit cards. However, when running the model and testing various features, we noted the findings were inconclusive because the model performed well in predicting rejections but poorly in predicting approvals. 
 
 
 Rules of Engagement
@@ -36,12 +36,16 @@ Rules of Engagement
 
 
 Project scope:
+
 Dataset cleaning/processing (separate table with features selected in step 2) - Abi
+
 Data extraction using Python --EDA (feature selection for further analysis) - Nav
-Plots
-TBD
+
 Regression modeling (logistic, KNN, random forest, Statsmodel - GLM) - Yev
+
 Data prediction (if applicable) — Model evaluation - Julia
+
+
 
 
 
