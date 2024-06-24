@@ -7,11 +7,11 @@ Project Breakdown:
 
 Questions:
 
-How do financial institutions (banks) determine credit card eligibility? What factors are taken into account?
-How can they improve the accuracy of predicting which customers should be eligible for credit cards?
+How do financial institutions (banks) determine credit card eligibility? What factors are taken into account? <br>
+How can they improve the accuracy of predicting which customers should be eligible for credit cards? <br>
 What factors should be considered to develop new products using the findings from this data?
 
-Where value will be added?
+Where value will be added? <br>
 Whether a target variable (0 to 1) should be increased or lowered and how the total number of CCs is going to change
 Coefficiency of each indicator to determine which component of the table is the most critical.
 
@@ -68,9 +68,16 @@ Project scope:
 4. Data prediction & Model evaluation - Julia
 
 
-Team collaboration timeline:
-Thursday, June 20 - 7:30pm-9pm
-Friday, June 21 - 7:30pm-9pm
-Saturday, June 22 - 10am-12pm, 6-9pm
-Sunday, June 23 - 10am-2pm
+Team collaboration timeline:<br>
+Thursday June 20 - 7:30pm-9pm,<br>
+Friday June 21 - 7:30pm-9pm,<br>
+Saturday June 22 - 10am-12pm, 6-9pm,<br>
+Sunday June 23 - 10am-2pm
+
+Please find below links to team members' video summaries, where each member shares their insights and reflections on the project:
+
+Julia Ren: https://drive.google.com/file/d/1aD8V2KFD-_BqpyqCYv7KJDYon9g32sMo/view?usp=drivesdk <br>
+Navneet Choudhary: https://drive.google.com/file/d/1h4WYgPsMcMMQxBLNIdfbDRm6NLLMy1RP/view?usp=sharing <br>
+Abigeal Adenigbagbe: https://drive.google.com/file/d/1wasL45NgO1t1FJ7L6jUZRt4jWH6142KZ/view?usp=drivesdk <br>
+Yevhen Horokhovskykh: https://drive.google.com/file/d/1sUPwDKMujKK-eCWywgPhFt5C__QwffFZ/view?usp=sharing
 
