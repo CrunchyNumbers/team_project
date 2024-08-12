@@ -85,7 +85,9 @@ Work periods will also be used as opportunities for teams to collaborate and wor
 |-- .gitignore
 ```
 
+* **Assets:** Contains images and other media files
 * **Data:** Contains the raw, processed and final data. For any data living in a database, make sure to export the tables out into the `sql` folder, so it can be used by anyone else.
+* **Docs:** Contains requirements for Team Project 1 & 2
 * **Experiments:** A folder for experiments
 * **Models:** A folder containing trained models or model predictions
 * **Reports:** Generated HTML, PDF etc. of your report
