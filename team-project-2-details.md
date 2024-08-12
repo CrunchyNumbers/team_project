@@ -69,3 +69,4 @@ Videos:
 
 Navneet Choudhary - https://drive.google.com/file/d/1Bgu4P6UaMVZipou1vg6B9pUzjVnXjOs7/view?usp=sharing <br>
 Yevhen Horokhovskykh - https://drive.google.com/file/d/1V-nIKwZoO9aDck_SgKxmFZ1F6P47bf4b/view?usp=drive_link
+Ren, Rihui (Julia) - https://drive.google.com/file/d/1HTtPwfAc9q3J6aTvXHqswT3ZfAGt-JSc/view?usp=sharing
