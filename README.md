@@ -24,12 +24,11 @@ By the end of Team Project Module 2, participants will be able to:
 **Questions can be submitted to the _#cohort-3-help_ channel on Slack**
 
 * Technical Facilitator: 
-  * **Phil Van-Lane**(he/him)
-  phil.vanlane@mail.utoronto.ca
+  * **Kamilah Ebrahim**(she/her)
+  kamilah.ebrahim@mail.utoronto.ca
 
 * Learning Support Staff:
-  * **Taneea Agrawaal** (she/her)
-  taneea@cs.toronto.edu
+
   * **Farzaneh Hashemi** (she/her )
   fhashemi.ma@gmail.com
   * **Tong Su** (she/her)
@@ -86,7 +85,9 @@ Work periods will also be used as opportunities for teams to collaborate and wor
 |-- .gitignore
 ```
 
+* **Assets:** Contains images and other media files
 * **Data:** Contains the raw, processed and final data. For any data living in a database, make sure to export the tables out into the `sql` folder, so it can be used by anyone else.
+* **Docs:** Contains requirements for Team Project 1 & 2
 * **Experiments:** A folder for experiments
 * **Models:** A folder containing trained models or model predictions
 * **Reports:** Generated HTML, PDF etc. of your report
